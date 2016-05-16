@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://update2.locojoy.com/ios/MTG/20160516/mt3_locojoy_signed_0516YT.ipa</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://update2.locojoy.com/android/MTG/20160126/MTG.png</string>
+                    </dict>
+                </array><key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.ytlocojoy.immt3</string>
+                    <key>bundle-version</key>
+                    <string>0.0.10</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>subtitle</key>
+                    <string>MT-G</string>
+                    <key>title</key>
+                    <string>我叫MT3</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
